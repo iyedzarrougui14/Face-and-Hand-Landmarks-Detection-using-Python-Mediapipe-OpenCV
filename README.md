@@ -1,0 +1,2 @@
+# Face-and-Hand-Landmarks-Detection-using-Python-Mediapipe-OpenCV
+This project uses MediaPipe and OpenCV to detect and track facial and hand landmarks in real-time. Key features include MediaPipe's Holistic Model for precise landmark detection and OpenCV for real-time video processing. The system ensures smooth, responsive tracking for applications like gesture recognition and human-computer interaction.
